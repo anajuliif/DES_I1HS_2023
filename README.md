@@ -1,4 +1,4 @@
-# DES_I1HS_2023
+# DES_I1HN_2023
 Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré e Nova Odessa
 
 ## Exemplos de texto em MarkDown ##
